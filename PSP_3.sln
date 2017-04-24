@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSP_3_modelo", "PSP_3_modelo\PSP_3_modelo.csproj", "{F06387C6-DADE-4656-B6B2-2A176ECF8C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSP_3_control", "PSP_3_control\PSP_3_control.csproj", "{BAA82106-AF56-4574-8B81-D9F73BF6730B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSP_3_gui", "PSP_3_gui\PSP_3_gui.csproj", "{84038265-6340-403F-A4FD-77C3D2B9052A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06387C6-DADE-4656-B6B2-2A176ECF8C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06387C6-DADE-4656-B6B2-2A176ECF8C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06387C6-DADE-4656-B6B2-2A176ECF8C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06387C6-DADE-4656-B6B2-2A176ECF8C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA82106-AF56-4574-8B81-D9F73BF6730B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA82106-AF56-4574-8B81-D9F73BF6730B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA82106-AF56-4574-8B81-D9F73BF6730B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA82106-AF56-4574-8B81-D9F73BF6730B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84038265-6340-403F-A4FD-77C3D2B9052A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84038265-6340-403F-A4FD-77C3D2B9052A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84038265-6340-403F-A4FD-77C3D2B9052A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84038265-6340-403F-A4FD-77C3D2B9052A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
