@@ -4,3 +4,7 @@ C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\bin\Debug\PSP_3_gui.pdb
 C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\obj\Debug\PSP_3_gui.csprojResolveAssemblyReference.cache
 C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\obj\Debug\PSP_3_gui.exe
 C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\obj\Debug\PSP_3_gui.pdb
+C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\bin\Debug\PSP_3_control.dll
+C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\bin\Debug\PSP_3_modelo.dll
+C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\bin\Debug\PSP_3_control.pdb
+C:\Users\Max\Source\Repos\PSP_3\PSP_3_gui\bin\Debug\PSP_3_modelo.pdb
