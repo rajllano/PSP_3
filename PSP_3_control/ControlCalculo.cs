@@ -56,17 +56,11 @@ namespace PSP_3_control
 
             Varianza = SumaCalculo1 / (Contador - 1);
             Desviacion = Math.Sqrt(Varianza);
-            RangoVS = PromedioLogaritmo - (2 * Desviacion);
-            RangoS = PromedioLogaritmo - Desviacion;
-            RangoM = PromedioLogaritmo;
-            RangoL = PromedioLogaritmo + Desviacion;
-            RangoVL = PromedioLogaritmo + (2 * Desviacion);
-
-            RangoVS = Math.Exp(RangoVS);
-            RangoS = Math.Exp(RangoS);
-            RangoM = Math.Exp(RangoM);
-            RangoL = Math.Exp(RangoL);
-            RangoVL = Math.Exp(RangoVL);
+            RangoVS = Math.Exp(PromedioLogaritmo - (2 * Desviacion));
+            RangoS = Math.Exp(PromedioLogaritmo - Desviacion);
+            RangoM = Math.Exp(PromedioLogaritmo);
+            RangoL = Math.Exp(PromedioLogaritmo + Desviacion);
+            RangoVL = Math.Exp(PromedioLogaritmo + (2 * Desviacion));
 
             String Respuesta = String.Empty;
 
